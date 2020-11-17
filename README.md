@@ -1,4 +1,4 @@
-# HealthBenefitsOfTraveling
+# Health Benefits Of Traveling
 
 The project provides an overview of the health benefits of traveling 
 

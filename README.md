@@ -11,3 +11,5 @@ Confidential information is not displayed.Images are custom.
 
 ## Travel Locations
 ![image](Travel.png)
+
+Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea

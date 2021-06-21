@@ -12,4 +12,7 @@ Confidential information is not displayed.Images are custom.
 ## Travel Locations
 ![image](Travel.png)
 
+## Certification
+![image](civilrights.jpg)
+
 Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea

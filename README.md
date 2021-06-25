@@ -10,7 +10,7 @@ Confidential information is not displayed.Images are custom.
 ![image](HealthBenefits.png)
 
 ## Travel Locations
-![image](Travel.png)
+![image](TravelLocations.png)
 
 ## Certification
 ![image](civilrights.jpg)

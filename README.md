@@ -15,4 +15,7 @@ Confidential information is not displayed.Images are custom.
 ## Certification
 ![image](civilrights.jpg)
 
+## Ethics and Integrity
+![image](EthicsandExcellence.png)
+
 Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea

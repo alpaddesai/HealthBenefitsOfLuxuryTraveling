@@ -18,6 +18,4 @@ Confidential information is not displayed.Images are custom.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
-#### https://www.rolex.com/
-
 Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea

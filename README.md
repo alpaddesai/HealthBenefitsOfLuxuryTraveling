@@ -18,4 +18,6 @@ Confidential information is not displayed.Images are custom.
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea

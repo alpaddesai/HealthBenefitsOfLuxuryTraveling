@@ -1,6 +1,6 @@
 # Health Benefits Of Traveling
 
-The project provides an overview of the health benefits of traveling.
+The project provides an overview of the health benefits of luxury traveling.
 
 Additional details reference https://github.com/alpaddesai/HealthBenefitsOfTraveling/releases
  

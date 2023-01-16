@@ -12,9 +12,6 @@ Confidential information is not displayed.Images are custom.
 ## Travel Locations
 ![image](TravelLocations.png)
 
-## Certification
-![image](civilrights.jpg)
-
 ## Ethics and Integrity
 ![image](EthicsandExcellence.png)
 

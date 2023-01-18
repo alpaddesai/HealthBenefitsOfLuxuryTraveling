@@ -2,8 +2,6 @@
 
 The project provides an overview of the health benefits of luxury traveling.
 
-Additional details reference https://github.com/alpaddesai/HealthBenefitsOfTraveling/releases
- 
 Confidential information is not displayed.Images are custom.
 
 ## Health benefits of traveling

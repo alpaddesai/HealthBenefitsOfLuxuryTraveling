@@ -15,4 +15,4 @@ Confidential information is not displayed.Images are custom.
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea
+Advanced knowledge reference https://github.com/alpaddesai/LifeStyle
